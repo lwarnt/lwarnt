@@ -6,7 +6,7 @@ I'm currently working on:
 How to reach me:
 - [x] Plz don't
 
-### Languages an Tools
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="40px" src=https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg />
 <img align="left" alt="GitHub" width="40px" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" />
