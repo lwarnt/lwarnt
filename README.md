@@ -18,7 +18,7 @@ How to reach me:
 
 <!-- 👌 https://github.com/edent/SuperTinyIcons 👌-->
 
-### I intend to publish something, sometime ... maybe?
+### I intend to publish something, sometimes ... maybe?
 
 <br />
 
