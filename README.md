@@ -6,8 +6,6 @@ I'm currently working on:
 How to reach me:
 - [x] Plz don't
 
-<br />
-
 ### Languages an Tools
 
 <img align="left" alt="Visual Studio Code" width="40px" src=https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg />
@@ -20,9 +18,9 @@ How to reach me:
 
 <!-- 👌 https://github.com/edent/SuperTinyIcons 👌-->
 
-<br />
-
 ### I intend to publish something, sometime ... maybe?
+
+<br />
 
 [![Website](https://img.shields.io/website?label=BLOG&style=for-the-badge&url=https%3A%2F%2Flwarnt.github.io%2Fblog)](https://lwarnt.github.io/blog)
 
