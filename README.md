@@ -22,7 +22,7 @@ How to reach me:
 
 <br />
 
-[![Website](https://img.shields.io/website?label=BLOG&style=for-the-badge&url=https%3A%2F%2Flwarnt.github.io%2Fblog)](https://lwarnt.github.io/blog)
+[![Website](https://img.shields.io/website?label=BLOG&style=for-the-badge&url=https%3A%2F%2Flwarnt.github.io%2Fblog)](https://lwarnt.github.io/)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
