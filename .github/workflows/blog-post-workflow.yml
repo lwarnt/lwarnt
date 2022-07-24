@@ -11,9 +11,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://lwarnt.github.io/"
           max_post_count: 3
           feed_names: "GitHub Pages"
-          template: "[$title]($url) $feedName $categories"
