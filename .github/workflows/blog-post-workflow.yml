@@ -16,4 +16,4 @@ jobs:
           feed_list: "https://lwarnt.github.io/"
           max_post_count: 3
           feed_names: "GitHub Pages"
-          template: [$title]($url) $feedName $categories
+          template: "[$title]($url) $feedName $categories"
