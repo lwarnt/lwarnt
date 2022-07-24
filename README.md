@@ -25,4 +25,5 @@ How to reach me:
 [![Website](https://img.shields.io/website?label=BLOG&style=for-the-badge&url=https%3A%2F%2Flwarnt.github.io%2Fblog)](https://lwarnt.github.io/)
 
 <!-- BLOG-POST-LIST:START -->
+- [test post](lwarnt.github.io/jekyll/2022/07/24/test-post.html)
 <!-- BLOG-POST-LIST:END -->
