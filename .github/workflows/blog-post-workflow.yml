@@ -8,7 +8,12 @@ jobs:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://lwarnt.github.io/feed.xml"
+          feed_list: "https://lwarnt.github.io/"
+          max_post_count: 3
+          feed_names: "GitHub Pages"
+          template: [$title]($url) $feedName $categories
