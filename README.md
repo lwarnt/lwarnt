@@ -26,5 +26,5 @@ How to reach me:
 ### Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [test post](lwarnt.github.io/jekyll/2022/07/24/test-post.html)
+- [test post](lwarnt.github.io/2022/07/24/test-post.html)
 <!-- BLOG-POST-LIST:END -->
