@@ -19,11 +19,11 @@ How to reach me:
 
 <!-- 👌 https://github.com/edent/SuperTinyIcons 👌-->
 
-### I intend to publish something, sometimes ... maybe?
-
 <br />
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=down&label=BLOG&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Flwarnt.github.io)](https://lwarnt.github.io)
+
+### Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [test post](lwarnt.github.io/jekyll/2022/07/24/test-post.html)
