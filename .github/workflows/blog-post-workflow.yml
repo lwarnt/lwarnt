@@ -13,6 +13,6 @@ jobs:
       - name: Pull posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://lwarnt.github.io/"
+          feed_list: "https://lwarnt.github.io/feed.xml"
           max_post_count: 3
           feed_names: "GitHub Pages"
