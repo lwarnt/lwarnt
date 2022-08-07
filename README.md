@@ -27,5 +27,4 @@ How to reach me:
 
 <!-- BLOG-POST-LIST:START -->
 - [Welcome](https://lwarnt.github.io/2022/07/24/welcome.html)
-- [test post](https://lwarnt.github.io/2022/07/24/test-post.html)
 <!-- BLOG-POST-LIST:END -->
