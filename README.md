@@ -29,6 +29,7 @@ mindmap
       Python
       YAML
       Bash
+      PowerShell
 ```
 
 ---
